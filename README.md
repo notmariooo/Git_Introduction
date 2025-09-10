@@ -1,4 +1,4 @@
-# Git_Introductionhub Workshop I
+# GitHub Workshop I
 - Introduction to Git and Github
 
 # GitHub Workshop II
